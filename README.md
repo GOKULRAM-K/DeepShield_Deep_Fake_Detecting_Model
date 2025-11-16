@@ -8,7 +8,7 @@
 <ul>
     <li>Dataset Preparation</li>
     <li>Model Architecture</li>
-    <li>Training Process</li>
+    <li>Training Process</li> 
     <li>Validation and Metrics</li>
     <li>Video Prediction</li>
     <li>Installation and Setup</li>
